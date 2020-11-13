@@ -1,1 +1,1 @@
-# goit-markup-hw-01
+# bot-practice-part1
